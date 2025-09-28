@@ -1,56 +1,67 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%C2%A1Hola%2C+soy+tu+nombre!;Desarrollador+Full-Stack;Apasionado+por+la+IA+y+el+software;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-### 👋  MARLON ONEYKER CABRERA VELAZQUES
-- 🔭 **Actualmente trabajando en**: Proyectos open-source con Python y React.
-- 🌱 **Aprendiendo**: Machine Learning con TensorFlow.
-- 👯 **Busco colaborar en**: Ideas innovadoras en IA.
-- 💬 **Pregúntame sobre**: Desarrollo web, DevOps o café ☕.
-- 📫 **Cómo contactarme**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com) o en Twitter [@tuusuario](https://twitter.com/tuusuario).
-- ⚡ **Fun fact**: ¡Puedo programar mientras corro maratones virtuales!
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical&hide_border=true" alt="Streak" width="38%" />
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm MARLON ONEYKERCABRERA VELASQUEZ</h1>
 
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+
+## About Me :
+
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 💻 Habilidades Top
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📈 Actividad Reciente
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-### ✨ Citación Inspiradora
-> "El código es como el humor: cuando funciona, nadie se ríe." – [Tu Nombre]
-
-¡Gracias por visitar! Si te gusta, dale una ⭐ a mis repos. 😊
-
----
-
-*Hecho con ❤️ usando Markdown y GitHub Actions.*
+Last edited on: 30/06/2022
